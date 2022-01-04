@@ -1,0 +1,4 @@
+[App]
+Name=BrickStacker
+Executable=/bin/BrickStacker
+Category=Games
